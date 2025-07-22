@@ -6,6 +6,7 @@ CCTV4国际,http://39.134.240.3/PLTV/2/224/3221225829/index.m3u8
 CCTV5,体育,http://39.134.240.3/PLTV/2/224/3221225827/index.m3u8
 CCTV5+体育赛事,http://39.134.13.35:6610/180000001001/00000001000000000008000000047442/index.m3u8?
 CCTV6电影,http://39.134.240.3/PLTV/2/224/3221225825/index.m3u8
+CCTV6电影,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8
 CCTV7军事,http://39.134.240.3/PLTV/2/224/3221225823/index.m3u8
 CCTV8电视剧,http://39.134.13.35:6610/180000001001/00000001000000001001000000000056/index.m3u8?
 CCTV9纪录,http://39.134.13.35:6610/180000001001/00000001000000001001000000000057/index.m3u8?
@@ -150,6 +151,10 @@ CHC家庭影院,http://v.mp.haue.edu.cn/hls/chctv.m3u8
 2021精选5首酒吧DJ舞曲,https://vdse.bdstatic.com//0e59c29ddbc68ed60dce8a6f4631c1f1.mp4
 2021酒吧夜店经典中文车载劲爆DJ舞曲大串烧F,https://vdse.bdstatic.com//f222c3fafbcc09db6f39991e5c982450.mp4
 21年DJ爆红网络洗脑神曲,https://vdse.bdstatic.com//bf4bb1d82b2eb17681c49e745dc2da21.mp4
+韩国DJ Soda Remix 2021 电音,https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
+韩宝仪,https://vdse.bdstatic.com//42d5ac65a9070eeab2513bf6bc65ea4d.mp4
+韩宝仪 除了你,https://vd2.bdstatic.com/mda-mfdf071grty8ku7v/sc/cae_h264/1623667503784559794/mda-mfdf071grty8ku7v.mp4
+耳朵无损,https://vd3.bdstatic.com/mda-nd5f9bu39gty1wfk/sc/cae_h264_delogo/1649244084303159392/mda-nd5f9bu39gty1wfk.mp4
 
 School-Flashback,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_PSc4gUoxOLZ3AM.mp4
 skart-短裙,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggoG24gUouOfNkAM.mp4
